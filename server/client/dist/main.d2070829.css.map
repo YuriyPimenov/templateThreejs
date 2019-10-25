@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles/main.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"main.d2070829.css","sourceRoot":"..","sourcesContent":["body {\n    margin: 0px;\n    overflow: hidden;\n    color: white;\n    text-align: center;\n}\n\n#root {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n}\n"]}
